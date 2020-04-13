@@ -18,14 +18,14 @@
 
 	For the programming assessment, I have successfully completed the following tasks:
 
-	[x] 1. Implemented C++ Function *open3d::geometry::TriangleMesh::IdenticallyColoredConnectedComponents*
-	[x] 2. Implemented Python binding for *open3d.geometry.TriangleMesh.identically_colored_connected_components*
-	[x] 3. Created *Solution.cpp* and executable*(Solution)* for testing the function.
-	[x] 4. Created *Solution.py* to test python binding for the function.
-	[x] 5. Wrote results to *Results.txt.*
-	[x] 6. Created and tested C++ unit tests.
-	[x] 7. Created and tested Python unit tests.
-	[x] 8. Provided documentation for code, build/run instructions and background about the algorithm used.
+	[x] Implemented C++ Function *open3d::geometry::TriangleMesh::IdenticallyColoredConnectedComponents*
+	[x] Implemented Python binding for *open3d.geometry.TriangleMesh.identically_colored_connected_components*
+	[x] Created *Solution.cpp* and executable*(Solution)* for testing the function.
+	[x] Created *Solution.py* to test python binding for the function.
+	[x] Wrote results to *Results.txt.*
+	[x] Created and tested C++ unit tests.
+	[x] Created and tested Python unit tests.
+	[x] Provided documentation for code, build/run instructions and background about the algorithm used.
 
 ## 2. Instructions to execute & test assessment
 	1. Clone this repository and extract installation folder in a directory *(I have extracted on my Desktop)*.

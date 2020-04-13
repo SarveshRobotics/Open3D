@@ -67,12 +67,17 @@ To navigate node graph, we can use any traversal algorithm. I chose Breadth-Firs
 
 Here are the following results I got while going through the assignments:
 
-	1. Results  
-	[Result.txt](Results.txt)  
-	2. C++ Unit Test result *(All 233 tests run together, so including testcase for implemented function)*  
-	![C++ Unittest](Open3D/docs/_static/cppTest.png)  
-	3. Pytest for testing python binding.  
-	![Pytest python binding](Open3D/docs/_static/PythonTest.png)
+1. Results  
+
+[Result.txt](Results.txt)  
+
+2. C++ Unit Test result *(All 233 tests run together, so including testcase for implemented function)*  
+
+![C++ Unittest](Open3D/docs/_static/cppTest.png)  
+
+3. Pytest for testing python binding.  
+
+![Pytest python binding](Open3D/docs/_static/PythonTest.png)
 
 ## 4. Results
 BFS works correctly to find the interconnected nodes. We get multiple chains, for each color. If the dataset is disjoint, as in this case, we get multiple long chains for each color. For the sake of consistency with the output format described in the problem set, I have restricted the output to largest chains among each color among all the disjoint sets in the dataset.

@@ -32,7 +32,7 @@ For the programming assessment, I have successfully completed the following task
 
 ## 2. Instructions to execute & test assessment
 1. Clone this repository and extract installation folder in a directory *(I have extracted on my Desktop)*.  
-` `  
+` Move the content of downloaded folder *IntelProgrammingAssessment* on the desktop. So now on your desktop you should see Open3D folder`  
 2. Activate a virtual env(not necessary, but a better approach as given on forums)  
 `cd ~/Desktop/Open3D`  
 `conda activate my_env`  

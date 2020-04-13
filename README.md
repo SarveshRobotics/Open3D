@@ -5,15 +5,15 @@
 # Intel Programming Assessment [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 <h5>
-** Table of Content **
+Table of Content
 
-1. Introduction
+	1. Introduction
 
-2. Instructions to execute
+	2. Instructions to execute
 
-3. Assessment overview
+	3. Assessment overview
 
-4. Results
+	4. Results
 </h5>
 
 

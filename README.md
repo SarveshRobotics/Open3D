@@ -81,10 +81,10 @@ Here are the following results I got while going through the assignment:
 
 ![Pytest python binding](Open3D/docs/_static/PythonTest.png)
 
+*Note: I found issues while building unitTests due to library_linkage errors in CMakeLists.txt. I modified google_test CMakeLists.txt to include the correct libraries. Also, I have set the BUILD_UNIT_TEST flag ON in project CMakeList.txt for faster debugging.*
+
 ## 4. Results
 BFS works correctly to find the interconnected nodes. We get multiple chains, for each color. If the dataset is disjoint, as in this case, we get multiple long chains for each color. For the sake of consistency with the output format described in the problem set, I have restricted the output to largest chains among each color among all the disjoint sets in the dataset.
-
-
 
 
 

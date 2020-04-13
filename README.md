@@ -4,13 +4,17 @@
 
 # Intel Programming Assessment [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
-<h6>
-**Table of Content  
-	1. Introduction
-	2. Instructions to execute
-	3. Assessment overview
-	4. Results
-</h6>
+<h5>
+** Table of Content **
+
+1. Introduction
+
+2. Instructions to execute
+
+3. Assessment overview
+
+4. Results
+</h5>
 
 
 ## 1. Introduction
@@ -87,4 +91,4 @@ BFS works correctly to find the interconnected nodes. We get multiple chains, fo
 
 ## Supported OSes and compilers
 
-* Ubuntu 18.04: GCC 5.x or newer[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+* Ubuntu 18.04: GCC 5.x or newer

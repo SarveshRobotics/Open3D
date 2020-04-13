@@ -18,26 +18,26 @@ Table of Content
 
 For the programming assessment, I have successfully completed the following tasks:
 
-[x] Implemented C++ Function *open3d::geometry::TriangleMesh::IdenticallyColoredConnectedComponents*
-[x] Implemented Python binding for *open3d.geometry.TriangleMesh.identically_colored_connected_components*
-[x] Created *Solution.cpp* and executable*(Solution)* for testing the function.
-[x] Created *Solution.py* to test python binding for the function.
-[x] Wrote results to *Results.txt.*
-[x] Created and tested C++ unit tests.
-[x] Created and tested Python unit tests.
-[x] Provided documentation for code, build/run instructions and background about the algorithm used.
+- [x] Implemented C++ Function *open3d::geometry::TriangleMesh::IdenticallyColoredConnectedComponents*
+- [x] Implemented Python binding for *open3d.geometry.TriangleMesh.identically_colored_connected_components*
+- [x] Created *Solution.cpp* and executable*(Solution)* for testing the function.
+- [x] Created *Solution.py* to test python binding for the function.
+- [x] Wrote results to *Results.txt.*
+- [x] Created and tested C++ unit tests.
+- [x] Created and tested Python unit tests.
+- [x] Provided documentation for code, build/run instructions and background about the algorithm used.
 
 ## 2. Instructions to execute & test assessment
-1. Clone this repository and extract installation folder in a directory *(I have extracted on my Desktop)*.
-``
-2. Activate a virtual env(not necessary, but a better approach as given on forums)
-`cd ~/Desktop/Open3D`
-`conda activate my_env`
-3. Install dependencies
+1. Clone this repository and extract installation folder in a directory *(I have extracted on my Desktop)*.  
+``  
+2. Activate a virtual env(not necessary, but a better approach as given on forums)  
+`cd ~/Desktop/Open3D`  
+`conda activate my_env`  
+3. Install dependencies  
 `util/scripts/install-deps-ubuntu.sh`
-4. Create and navigate to build folder
 
-`mkdir build`
+4. Create and navigate to build folder  
+`mkdir build`  
 `cd build`
 
 5. Configure

@@ -67,10 +67,11 @@ To navigate node graph, we can use any traversal algorithm. I chose Breadth-Firs
 
 Here are the following results I got while going through the assignments:
 
-	1. [Result.txt](Results.txt)
-	2. C++ Unit Test result *(All 233 tests run together, so including testcase for implemented function)*
-	![C++ Unittest](cppTest.png)
-	3. Pytest for testing python binding.
+	1. Results  
+	[Result.txt](Results.txt)  
+	2. C++ Unit Test result *(All 233 tests run together, so including testcase for implemented function)*  
+	![C++ Unittest](cppTest.png)  
+	3. Pytest for testing python binding.  
 	![Pytest python binding](PythonTest.png)
 
 ## 4. Results

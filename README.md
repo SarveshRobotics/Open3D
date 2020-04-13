@@ -69,7 +69,7 @@ I enjoyed working on this programming assessment. It was interesting to work on 
 
 To navigate node graph, we can use any traversal algorithm. I chose Breadth-First-Search Algorithm for this assignment. I have kept the code resuable and implemented BFS as a separate private function. Optionally, depending upon the dataset nature, we can switch to various algorithms like DFS, BFS etc. supporting our case.
 
-Here are the following results I got while going through the assignments:
+Here are the following results I got while going through the assignment:
 
 1. [Result](Results.txt)  
 

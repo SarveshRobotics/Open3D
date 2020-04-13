@@ -2,7 +2,7 @@
 <img src="Open3D/docs/_static/open3d_logo_horizontal.png" width="320" />
 </p>
 
-# Intel Programming Assessment
+# Intel Programming Assessment [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 <h6>
 **Table of Content  
@@ -67,9 +67,7 @@ To navigate node graph, we can use any traversal algorithm. I chose Breadth-Firs
 
 Here are the following results I got while going through the assignments:
 
-1. Results  
-
-[Result.txt](Results.txt)  
+1. [Result](Results.txt)  
 
 2. C++ Unit Test result *(All 233 tests run together, so including testcase for implemented function)*  
 
@@ -89,4 +87,4 @@ BFS works correctly to find the interconnected nodes. We get multiple chains, fo
 
 ## Supported OSes and compilers
 
-* Ubuntu 18.04: GCC 5.x or newer [![Build Status](https://travis-ci.org/intel-isl/Open3D.svg?branch=master)](https://travis-ci.org/intel-isl/Open3D)[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+* Ubuntu 18.04: GCC 5.x or newer[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)

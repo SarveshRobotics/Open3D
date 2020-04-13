@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Open3D" targetName="TrimMeshBasedOnPointCloud" />
+      <config projectName="Open3D" targetName="PointCloud" />
+      <config projectName="Open3D" targetName="Camera" />
+      <config projectName="Open3D" targetName="conda-package" />
+      <config projectName="Open3D" targetName="LineSet" />
+      <config projectName="Open3D" targetName="OpenMP" />
+      <config projectName="Open3D" targetName="jsoncpp" />
+      <config projectName="Open3D" targetName="qhullcpp" />
+      <config projectName="Open3D" targetName="pip-package" />
+      <config projectName="Open3D" targetName="EvaluateFeatureMatch" />
+      <config projectName="Open3D" targetName="OdometryRGBD" />
+      <config projectName="Open3D" targetName="ManuallyAlignPointCloud" />
+      <config projectName="Open3D" targetName="FileSystem" />
+      <config projectName="Open3D" targetName="tinyfiledialogs" />
+      <config projectName="Open3D" targetName="Utility" />
+      <config projectName="Open3D" targetName="ViewPCDMatch" />
+      <config projectName="Open3D" targetName="IntegrateRGBD" />
+      <config projectName="Open3D" targetName="tinyobjloader" />
+      <config projectName="Open3D" targetName="unitTests" />
+      <config projectName="Open3D" targetName="googletest" />
+      <config projectName="Open3D" targetName="Solution" />
+      <config projectName="Open3D" targetName="ext_turbojpeg" />
+      <config projectName="Open3D" targetName="build_all_3rd_party_libs" />
+      <config projectName="Open3D" targetName="ConvertPointCloud" />
+      <config projectName="Open3D" targetName="DepthCapture" />
+      <config projectName="Open3D" targetName="EvaluatePCDMatch" />
+      <config projectName="Open3D" targetName="Visualizer" />
+      <config projectName="Open3D" targetName="EncodeShader" />
+      <config projectName="Open3D" targetName="Flann" />
+      <config projectName="Open3D" targetName="Visualization" />
+      <config projectName="Open3D" targetName="Odometry" />
+      <config projectName="Open3D" targetName="ViewDistances" />
+      <config projectName="Open3D" targetName="ColorMapOptimization" />
+      <config projectName="Open3D" targetName="uninstall" />
+      <config projectName="Open3D" targetName="TriangleMesh" />
+      <config projectName="Open3D" targetName="qhullstatic_r" />
+      <config projectName="Open3D" targetName="IO" />
+      <config projectName="Open3D" targetName="Log" />
+      <config projectName="Open3D" targetName="ShaderFileTarget" />
+      <config projectName="Open3D" targetName="ViewGeometry" />
+      <config projectName="Open3D" targetName="install-pip-package" />
+      <config projectName="Open3D" targetName="open3d" />
+      <config projectName="Open3D" targetName="CameraPoseTrajectory" />
+      <config projectName="Open3D" targetName="Python" />
+      <config projectName="Open3D" targetName="ColorMap" />
+      <config projectName="Open3D" targetName="Geometry" />
+      <config projectName="Open3D" targetName="Voxelization" />
+      <config projectName="Open3D" targetName="RegistrationRANSAC" />
+      <config projectName="Open3D" targetName="apply-style" />
+      <config projectName="Open3D" targetName="python-package" />
+      <config projectName="Open3D" targetName="Registration" />
+      <config projectName="Open3D" targetName="Image" />
+      <config projectName="Open3D" targetName="RGBDOdometry" />
+      <config projectName="Open3D" targetName="glfw" />
+      <config projectName="Open3D" targetName="check-style" />
+      <config projectName="Open3D" targetName="ManuallyCropGeometry" />
+      <config projectName="Open3D" targetName="FileDialog" />
+      <config projectName="Open3D" targetName="PoseGraph" />
+      <config projectName="Open3D" targetName="Open3D" />
+      <config projectName="Open3D" targetName="PCDFileFormat" />
+      <config projectName="Open3D" targetName="Integration" />
+      <config projectName="Open3D" targetName="MergeMesh" />
+      <config projectName="Open3D" targetName="ProgramOptions" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bb3fe1b-204e-4cd9-9463-429a614f2b50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aU24LmIHlPO3Y65EL2fA5sFS6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.CameraPoseTrajectory">
+    <configuration name="Camera" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Camera" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CameraPoseTrajectory" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="CameraPoseTrajectory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="CameraPoseTrajectory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColorMap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ColorMap" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColorMapOptimization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ColorMapOptimization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ColorMapOptimization">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertPointCloud" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ConvertPointCloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ConvertPointCloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepthCapture" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="DepthCapture" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="DepthCapture">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodeShader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="EncodeShader" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="EncodeShader">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluateFeatureMatch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="EvaluateFeatureMatch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="EvaluateFeatureMatch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluatePCDMatch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="EvaluatePCDMatch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="EvaluatePCDMatch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileDialog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="FileDialog" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="FileDialog">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="FileSystem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="FileSystem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flann" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Flann" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="Flann">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Geometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Geometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="IO" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Image" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Image" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="Image">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrateRGBD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="IntegrateRGBD" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="IntegrateRGBD">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Integration" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Integration" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineSet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="LineSet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="LineSet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Log" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="Log">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManuallyAlignPointCloud" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ManuallyAlignPointCloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ManuallyAlignPointCloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManuallyCropGeometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ManuallyCropGeometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ManuallyCropGeometry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeMesh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="MergeMesh" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="MergeMesh">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Odometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OdometryRGBD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="OdometryRGBD" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="OdometryRGBD">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Open3D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Open3D" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenMP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="OpenMP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="OpenMP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PCDFileFormat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="PCDFileFormat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="PCDFileFormat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointCloud" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="PointCloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="PointCloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoseGraph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="PoseGraph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="PoseGraph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramOptions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ProgramOptions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ProgramOptions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Python" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Python" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RGBDOdometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="RGBDOdometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="RGBDOdometry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Registration" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationRANSAC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="RegistrationRANSAC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="RegistrationRANSAC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShaderFileTarget" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ShaderFileTarget" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Solution" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="Solution">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleMesh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="TriangleMesh" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="TriangleMesh">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrimMeshBasedOnPointCloud" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="TrimMeshBasedOnPointCloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="TrimMeshBasedOnPointCloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Utility" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Utility" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewDistances" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ViewDistances" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ViewDistances">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewGeometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ViewGeometry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ViewGeometry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewPCDMatch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ViewPCDMatch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="ViewPCDMatch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visualization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Visualization" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visualizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Visualizer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="Visualizer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Voxelization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="Voxelization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="Voxelization">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apply-style" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="apply-style" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_all_3rd_party_libs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="build_all_3rd_party_libs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check-style" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="check-style" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conda-package" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="conda-package" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ext_turbojpeg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="ext_turbojpeg" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="googletest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="googletest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-pip-package" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="install-pip-package" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsoncpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="jsoncpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="open3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="open3d" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pip-package" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="pip-package" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="python-package" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="python-package" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qhullcpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="qhullcpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qhullstatic_r" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="qhullstatic_r" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tinyfiledialogs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="tinyfiledialogs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tinyobjloader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="tinyobjloader" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unitTests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3D" TARGET_NAME="unitTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3D" RUN_TARGET_NAME="unitTests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.apply-style" />
+      <item itemvalue="CMake Application.build_all_3rd_party_libs" />
+      <item itemvalue="CMake Application.check-style" />
+      <item itemvalue="CMake Application.ext_turbojpeg" />
+      <item itemvalue="CMake Application.googletest" />
+      <item itemvalue="CMake Application.qhullcpp" />
+      <item itemvalue="CMake Application.qhullstatic_r" />
+      <item itemvalue="CMake Application.tinyobjloader" />
+      <item itemvalue="CMake Application.glfw" />
+      <item itemvalue="CMake Application.jsoncpp" />
+      <item itemvalue="CMake Application.tinyfiledialogs" />
+      <item itemvalue="CMake Application.CameraPoseTrajectory" />
+      <item itemvalue="CMake Application.ColorMapOptimization" />
+      <item itemvalue="CMake Application.DepthCapture" />
+      <item itemvalue="CMake Application.EvaluateFeatureMatch" />
+      <item itemvalue="CMake Application.EvaluatePCDMatch" />
+      <item itemvalue="CMake Application.FileDialog" />
+      <item itemvalue="CMake Application.FileSystem" />
+      <item itemvalue="CMake Application.Flann" />
+      <item itemvalue="CMake Application.Image" />
+      <item itemvalue="CMake Application.IntegrateRGBD" />
+      <item itemvalue="CMake Application.LineSet" />
+      <item itemvalue="CMake Application.Log" />
+      <item itemvalue="CMake Application.OdometryRGBD" />
+      <item itemvalue="CMake Application.OpenMP" />
+      <item itemvalue="CMake Application.PCDFileFormat" />
+      <item itemvalue="CMake Application.PointCloud" />
+      <item itemvalue="CMake Application.PoseGraph" />
+      <item itemvalue="CMake Application.ProgramOptions" />
+      <item itemvalue="CMake Application.RegistrationRANSAC" />
+      <item itemvalue="CMake Application.RGBDOdometry" />
+      <item itemvalue="CMake Application.Solution" />
+      <item itemvalue="CMake Application.TriangleMesh" />
+      <item itemvalue="CMake Application.TrimMeshBasedOnPointCloud" />
+      <item itemvalue="CMake Application.ViewDistances" />
+      <item itemvalue="CMake Application.ViewPCDMatch" />
+      <item itemvalue="CMake Application.Visualizer" />
+      <item itemvalue="CMake Application.Voxelization" />
+      <item itemvalue="CMake Application.Python" />
+      <item itemvalue="CMake Application.Open3D" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.Camera" />
+      <item itemvalue="CMake Application.ColorMap" />
+      <item itemvalue="CMake Application.Geometry" />
+      <item itemvalue="CMake Application.Integration" />
+      <item itemvalue="CMake Application.IO" />
+      <item itemvalue="CMake Application.Odometry" />
+      <item itemvalue="CMake Application.Registration" />
+      <item itemvalue="CMake Application.Utility" />
+      <item itemvalue="CMake Application.ShaderFileTarget" />
+      <item itemvalue="CMake Application.Visualization" />
+      <item itemvalue="CMake Application.conda-package" />
+      <item itemvalue="CMake Application.install-pip-package" />
+      <item itemvalue="CMake Application.open3d" />
+      <item itemvalue="CMake Application.pip-package" />
+      <item itemvalue="CMake Application.python-package" />
+      <item itemvalue="CMake Application.ConvertPointCloud" />
+      <item itemvalue="CMake Application.EncodeShader" />
+      <item itemvalue="CMake Application.ManuallyCropGeometry" />
+      <item itemvalue="CMake Application.MergeMesh" />
+      <item itemvalue="CMake Application.ViewGeometry" />
+      <item itemvalue="CMake Application.ManuallyAlignPointCloud" />
+      <item itemvalue="CMake Application.unitTests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bb3fe1b-204e-4cd9-9463-429a614f2b50" name="Default Changelist" comment="" />
+      <created>1586775661138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586775661138</updated>
+      <workItem from="1586775666710" duration="1002000" />
+      <workItem from="1586793606529" duration="3855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

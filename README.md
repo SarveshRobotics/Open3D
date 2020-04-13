@@ -71,7 +71,7 @@ To navigate node graph, we can use any traversal algorithm. I chose Breadth-Firs
 
 Here are the following results I got while going through the assignment:
 
-1. [Result](Results.txt)  
+1. [Result](Open3D/examples/TestData/Results.txt)  
 
 2. C++ Unit Test result *(All 233 tests run together, so including testcase for implemented function)*  
 

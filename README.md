@@ -36,7 +36,7 @@
 	3. Install dependencies
 	`util/scripts/install-deps-ubuntu.sh`
 	4. Create and navigate to build folder
-	`mkdir build`
+	``` mkdir build ```
 	`cd build`
 	5. Configure
 	`cmake -DPYTHON_EXECUTABLE=`which python` ..`

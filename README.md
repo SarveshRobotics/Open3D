@@ -2,7 +2,7 @@
 <img src="Open3D/docs/_static/open3d_logo_horizontal.png" width="320" />
 </p>
 
-# Intel Programming Assessment [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+# Open3D Introduction [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 <h5>
 Table of Content
@@ -11,15 +11,13 @@ Table of Content
 
 	2. Instructions to execute
 
-	3. Assessment overview
-
-	4. Results
+	3. Results
 </h5>
 
 
 ## 1. Introduction
 
-For the programming assessment, I have successfully completed the following tasks:
+Made following changes to the Open3D repository:
 
 - [x] Implemented C++ Function *open3d::geometry::TriangleMesh::IdenticallyColoredConnectedComponents*
 - [x] Implemented Python binding for *open3d.geometry.TriangleMesh.identically_colored_connected_components*
@@ -60,16 +58,13 @@ Result.txt will be inside the examples/TestData folder.
 12. Run Python test  
 `pytest src/UnitTest/Python/test_trianglemesh.py`  
 
-
-## 3. Assessment overview
-
-I enjoyed working on this programming assessment. It was interesting to work on a 3D dataset. I realized Open3D makes it easier to work on 3D datasets.
+I realized Open3D makes it easier to work on 3D datasets.
 
 ![Given Dataset](Open3D/docs/_static//Dataset.png)
 
-To navigate node graph, we can use any traversal algorithm. I chose Breadth-First-Search Algorithm for this assignment. I have kept the code resuable and implemented BFS as a separate private function. Optionally, depending upon the dataset nature, we can switch to various algorithms like DFS, BFS etc. supporting our case.
+To navigate node graph, we can use any traversal algorithm. I chose Breadth-First-Search Algorithm. I have kept the code resuable and implemented BFS as a separate private function. Optionally, depending upon the dataset nature, we can switch to various algorithms like DFS, BFS etc. supporting our case.
 
-Here are the following results I got while going through the assignment:
+Here are the following results I got:
 
 1. [Result](Open3D/examples/TestData/Results.txt)  
 
@@ -83,7 +78,7 @@ Here are the following results I got while going through the assignment:
 
 *Note: I found issues while building unitTests due to library_linkage errors in CMakeLists.txt. I modified google_test CMakeLists.txt to include the correct libraries. Also, I have set the BUILD_UNIT_TEST flag ON in project CMakeList.txt for faster debugging.*
 
-## 4. Results
+## 3. Results
 BFS works correctly to find the interconnected nodes. We get multiple chains, for each color. If the dataset is disjoint, as in this case, we get multiple long chains for each color. For the sake of consistency with the output format described in the problem set, I have restricted the output to largest chains among each color among all the disjoint sets in the dataset.
 
 

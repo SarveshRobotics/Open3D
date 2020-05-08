@@ -28,7 +28,7 @@ Made following changes to the Open3D repository:
 - [x] Created and tested Python unit tests.
 - [x] Provided documentation for code, build/run instructions and background about the algorithm used.
 
-## 2. Instructions to execute & test assessment
+## 2. Instructions to execute
 1. Clone this repository and extract installation folder in a directory *(I have extracted on my Desktop)*.  
 ` Move the content of downloaded folder *IntelProgrammingAssessment* on the desktop. So now on your desktop you should see Open3D folder`  
 2. Activate a virtual env(not necessary, but a better approach as given on forums)  
